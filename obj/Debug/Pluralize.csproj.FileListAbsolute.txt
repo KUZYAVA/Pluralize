@@ -1,0 +1,8 @@
+/Users/alexanderkuzevanov/Documents/ФИИТ/Основы С#/Pluralize.csproj/bin/Debug/rubles.txt
+/Users/alexanderkuzevanov/Documents/ФИИТ/Основы С#/Pluralize.csproj/bin/Debug/Pluralize.exe.config
+/Users/alexanderkuzevanov/Documents/ФИИТ/Основы С#/Pluralize.csproj/bin/Debug/Pluralize.exe
+/Users/alexanderkuzevanov/Documents/ФИИТ/Основы С#/Pluralize.csproj/bin/Debug/Pluralize.pdb
+/Users/alexanderkuzevanov/Documents/ФИИТ/Основы С#/Pluralize.csproj/obj/Debug/Pluralize.csprojAssemblyReference.cache
+/Users/alexanderkuzevanov/Documents/ФИИТ/Основы С#/Pluralize.csproj/obj/Debug/Pluralize.csproj.CoreCompileInputs.cache
+/Users/alexanderkuzevanov/Documents/ФИИТ/Основы С#/Pluralize.csproj/obj/Debug/Pluralize.exe
+/Users/alexanderkuzevanov/Documents/ФИИТ/Основы С#/Pluralize.csproj/obj/Debug/Pluralize.pdb
